@@ -36,5 +36,5 @@ The main example is a **gray filter** applied to images.
 - Start the server components before launching the client.
 - Make sure all components use matching port numbers.
 - Use full file paths when entering JAR and input file locations.
-<img width="1854" height="1048" alt="Screenshot from 2026-10-12 13-21-10" src="https://github.com/user-attachments/assets/169de15f-c3b9-4b6d-bfac-66f8018dd554" />
-<img width="1854" height="1048" alt="Screenshot from 2026-10-12 13-13-40" src="https://github.com/user-attachments/assets/8195a5b9-8d92-48c9-a9cf-ec209c83f045" />
+<img width="1854" height="1048" alt="Screenshot from 2026-10-12 13-21-10" src="https://github.com/user-attachments/assets/169de15f-c3b9-4b6d-bfac-66f8018dd554" /><img width="1643" height="837" alt="filter" src="https://github.com/user-attachments/assets/fd2327f7-72f7-488b-b7f2-046e128b5f45" />
+
